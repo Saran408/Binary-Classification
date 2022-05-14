@@ -57,5 +57,5 @@ pyplot.show()
 
 
 
-## Result:
+## <br/><br/><br/><br/><br/><br/>Result:
 Thus the python program performed binary classification successfully.
